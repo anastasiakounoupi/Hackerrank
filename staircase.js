@@ -9,5 +9,3 @@ function staircase(n) {
     console.log(spaces.concat(stairs))
   }
 }
-
-staircase(6)
